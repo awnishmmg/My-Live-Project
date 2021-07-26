@@ -18,7 +18,16 @@ http://accounts.way2mint.in/accounts_ci/dashboard
 
 http://chatbot.way2mint.in/
 
-### Misscall Application | Misscall-Application (misscall.way2mint.com) PHP|Zwave Framework )
+### Misscall Application | Misscall-Application (way2mint.misscall.seeksolution.in) PHP|Zwave Framework )
 
 http://way2mint.misscall.seeksolution.in/
 
+### AjayMobileSoftwares | Bussiness Application (ajaymobilesoftware.com) PHP|Zwave Framework|Wordpress)
+
+http://ajaymobilesoftware.com/
+
+### zwavefoundation.tech | Framework Community Application (zwavefoundation.tech) PHP|Zwave Framework|Wordpress)
+
+### Urise Portal | A Official Project By Nic.in & Government of Uttar Pradesh PHP|CodeIgnitor|HMVC)
+
+https://urise.up.gov.in/
