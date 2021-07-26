@@ -28,6 +28,8 @@ http://ajaymobilesoftware.com/
 
 ### zwavefoundation.tech | Framework Community Application (zwavefoundation.tech) PHP|Zwave Framework|Wordpress)
 
+http://zwavefoundation.tech/
+
 ### Urise Portal | A Official Project By Nic.in & Government of Uttar Pradesh PHP|CodeIgnitor|HMVC)
 
 https://urise.up.gov.in/
