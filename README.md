@@ -20,5 +20,5 @@ http://chatbot.way2mint.in/
 
 ### Misscall Application | Misscall-Application (misscall.way2mint.com) PHP|Zwave Framework )
 
-http://miscall.seeksolution.in/
+http://way2mint.misscall.seeksolution.in/
 
