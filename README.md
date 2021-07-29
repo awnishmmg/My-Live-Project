@@ -33,3 +33,6 @@ http://zwavefoundation.tech/
 ### Urise Portal | A Official Project By Nic.in & Government of Uttar Pradesh PHP|CodeIgnitor|HMVC)
 
 https://urise.up.gov.in/
+
+### Rest Api Documentation EasyBuk Aaraclouds PHP|HMVC Zwave Framework|
+http://homes.aaraclouds.com/api_testing/web/
