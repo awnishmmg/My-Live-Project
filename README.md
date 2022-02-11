@@ -2,12 +2,19 @@
 This Repo is maintained with the purpose to brief my projects I have done so far till 2022
 
 https://pzht.in/ Pizza Hut Official
+
 https://myimg.in/ Apple India Client
+
 http://thenutrientbox.way2mint.in/ The Nutrient Box (ROI Application)
+
 http://cms.mjlifespaces.com 
+
 http://misscallapp.way2mint.in/ Misscall Api Solution
+
 http://misscallapi.way2mint.in/ Misscall Misscall Api Solution
+
 http://chatbot.way2mint.in/ 
+
 http://syncmobi.com
 
 # List of Project
